@@ -13,7 +13,16 @@ From career decisions and financial choices to personal dilemmas and technology 
 **Live Demo:** https://the-tiebreaker-6267.ai.studio
 
 **Platform:** Google AI Studio
+## 📸 Application Preview
 
+### 1. Main Dashboard
+![The Tiebreaker - Main Dashboard](screenshots/dashboard.png)
+
+### 2. Decision Analysis & Comparison
+![The Tiebreaker - Decision Analysis](screenshots/decision-analysis.png)
+
+### 3. AI-Powered Final Verdict
+![The Tiebreaker - Final Verdict](screenshots/final-verdict.png)
 
 
 ## ✨ Key Features
